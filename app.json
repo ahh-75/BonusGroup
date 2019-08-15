@@ -3,13 +3,13 @@
   "name": "BonusGroup",
   "publisher": "Consortion IT Aps",
   "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
+  "brief": "BonusGroup",
+  "description": "BonusGroup",
+  "privacyStatement":"https://consortio.dk/wp-content/uploads/2018/12/GDPR-Privatlivspolitik-Consortio-IT.pdf",
   "EULA": "",
   "help": "",
   "url": "",
-  "logo": "",
+  "logo": "assets/images/logo.png",
   "dependencies": [],
   "screenshots": [],
   "platform": "14.0.0.0",
@@ -22,5 +22,10 @@
   ],
   "contextSensitiveHelpUrl": "https://ALProject1.com/help/",
   "showMyCode": true,
+  "target": "Internal",
+  "supportedLocales": [
+    "en-US",
+    "da-DK"
+  ],
   "runtime": "3.2"
 }
